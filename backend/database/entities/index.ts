@@ -1,3 +1,3 @@
 import { User } from './user';
 
-export const ENTITIES = [User, Event, Configuration, Guest, Feedback, Notification];
+export const ENTITIES = [User, Event, Notification];
